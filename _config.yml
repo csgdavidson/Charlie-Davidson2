@@ -23,7 +23,7 @@ darkmode: false
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, I'm <mark>Charlie</mark>. A Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     
 # Projects Section
