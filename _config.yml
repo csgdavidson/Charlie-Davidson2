@@ -29,15 +29,7 @@ about_content:
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-education_title:
-- layout: left
-  name: University of Stirling
-  dates: 2004 - 2008
-  qualification: Bachelor of Arts (Hons) 
-  quote: >
-    Business Studies (International Business)
-  description:
-     | Stirling University Management School is rated in the top 25 UK Universities for Business and Management. During my time in Stirling I focussed mainly on Entrepreneurship and International Business classes, with a dissertation on business practices in rural areas.
+# education_title: Education #(Use this to override about experience section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
