@@ -22,10 +22,10 @@ darkmode: false
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, I'm Charlie. A Digital Project Manager and Scrum Master from Bicester, Oxfordshire. Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes. I'm a Certified Scrum Master, and Certified Product Owner, through the Scrum Alliance.
-
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
