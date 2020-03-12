@@ -17,10 +17,10 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_profile_image: /charlie.jpg
+about_profile_image: img/charlie.jpg
 about_content:
-  |Hi, I'm <mark>Charlie</mark>. A Senior Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
-  |Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes.
+  | Hi, I'm <mark>Charlie</mark>. A Senior Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
+  | Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes.
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -29,7 +29,14 @@ about_content:
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+- layout: left
+  name: University of Stirling
+  dates: 2004 - 2008
+  qualification: Bachelor of Arts (Hons) 
+  quote: >
+    Business Studies (International Business)
+  description:
+     | Stirling University Management School is rated in the top 25 UK Universities for Business and Management. During my time in Stirling I focussed mainly on Entrepreneurship and International Business classes, with a dissertation on business practices in rural areas.
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
