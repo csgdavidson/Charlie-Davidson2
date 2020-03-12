@@ -19,8 +19,8 @@ darkmode: false
 # About Section
 about_profile_image: charlie.jpg
 about_content:
-  | Hi, I'm <mark>Charlie</mark>. A Senior Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
-  | Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes.
+  Hi, I'm <mark>Charlie</mark>. A Senior Digital Project Manager and Scrum Master from Bicester, Oxfordshire. <br>
+  Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes.
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
