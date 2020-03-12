@@ -29,6 +29,7 @@ about_content:
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
+education_title:
 - layout: left
   name: University of Stirling
   dates: 2004 - 2008
