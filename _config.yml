@@ -24,9 +24,7 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, I'm Charlie. A Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
-
-Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes. I'm a Certified Scrum Master, and Certified Product Owner, through the Scrum Alliance.
+Hi, I'm Charlie. A Digital Project Manager and Scrum Master from Bicester, Oxfordshire. Born in Inverness and raised in Cromarty, I went to Fortrose Academy and completed my undergraduate at Stirling University. I've been with digital agencies for eleven years and enjoy working with people, building solutions, and refining processes. I'm a Certified Scrum Master, and Certified Product Owner, through the Scrum Alliance.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
