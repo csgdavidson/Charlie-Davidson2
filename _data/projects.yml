@@ -4,8 +4,10 @@
   description:  
     2019, Scrum Alliance
 
-# Project template
-- layout: top-middle
-  name: Certified Scrum Master
-  description:  
-    2018, Scrum Alliance
+# Education Template
+- layout: left
+  name: University of Stirling
+  dates: 2004 - 2008
+  qualification: B.A. (Hons) International Business
+  description:
+     The Management School at Stirling is a top 25 UK University for Business and Management. My time at Stirling was focussed on Entrepreneurship and International Business. My dissertation was on business in rural areas.
