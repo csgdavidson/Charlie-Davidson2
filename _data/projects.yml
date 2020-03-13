@@ -1,12 +1,7 @@
-# Project template
-- layout: top-middle
-  name: Certified Product Owner
-  description:  
-    2019, Scrum Alliance
-
 # Education Template
 - layout: left
-  name: Certified Product Owner
+  name: Scrum Alliance
   dates: 2019
+  qualification: Certified Product Owner
   description:
-     The Management School at Stirling is a top 25 UK University for Business and Management. My time at Stirling was focussed on Entrepreneurship and International Business. My dissertation was on business in rural areas.
+     
