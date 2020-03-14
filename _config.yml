@@ -23,7 +23,7 @@ about_content:
   I've been a digital agency Project Manager for eleven years and enjoy getting to work with people, build solutions, and refine processes.
     
 # Projects Section
-projects_title: Certifications
+projects_title: Achievements
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -32,10 +32,21 @@ projects_title: Certifications
 # education_title: Education #(Use this to override about experience section title)
 
 # More Section
-more_title: Achievements
+more_title: Certifications
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+- layout: left
+  name: Scrum Alliance
+  dates: 2019
+  qualification: Certified Product Owner
+  description:
+     CSPO - 2019‑11‑28 - Instructor - David Hicks
+
+- layout: left
+  name: Scrum Alliance
+  dates: 2018
+  qualification: Certified Scrum Master
+  description:
+     CSM - 2018‑09‑27 - Instructor - Tobias Mayer
 
 # Footer
 footer_show_references: false
