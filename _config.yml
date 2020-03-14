@@ -34,19 +34,8 @@ projects_title: Achievements
 # More Section
 more_title: Certifications
 more_content: | # this will include new lines to allow paragraphs
-- layout: left
-  name: Scrum Alliance
-  dates: 2019
-  qualification: Certified Product Owner
-  description:
-     CSPO - 2019‑11‑28 - Instructor - David Hicks
-
-- layout: left
-  name: Scrum Alliance
-  dates: 2018
-  qualification: Certified Scrum Master
-  description:
-     CSM - 2018‑09‑27 - Instructor - Tobias Mayer
+  Certified Product Owner, 2019
+  Certified Scrum Master, 2018
 
 # Footer
 footer_show_references: false
