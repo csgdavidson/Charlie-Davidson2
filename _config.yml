@@ -34,8 +34,8 @@ projects_title: Achievements
 # More Section
 more_title: Certifications
 more_content: | # this will include new lines to allow paragraphs
-  Certified Product Owner, 2019
-  Certified Scrum Master, 2018
+  - Certified Product Owner, 2019
+  - Certified Scrum Master, 2018
 
 # Footer
 footer_show_references: false
