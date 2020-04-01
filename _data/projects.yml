@@ -1,5 +1,10 @@
 # Education Template
 
-Hi, I'm Charlie. A Senior Digital Project Manager and Scrum Master from Bicester, Oxfordshire.
-  Raised in Cromarty, I went to Fortrose Academy and graduated with honours from Stirling University.
-  I've been a digital agency Project Manager for eleven years and enjoy getting to work with people, build solutions, and refine processes.
+  layout: left (options: left, right, top, top-right, top-middle)
+  name: Project name
+  link: Link to project (eg. https://sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
