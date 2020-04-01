@@ -2,5 +2,5 @@
 - layout: left
   name: ScrumAlliance
   description: | # this will include new lines to allow paragraphs
-    Certified Product Owner, 2019
+    Certified Product Owner, 2019 <br>
     Certified Scrum Master, 2018
