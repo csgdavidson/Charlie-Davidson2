@@ -23,7 +23,7 @@ about_content:
   I've been a digital agency Project Manager for eleven years and enjoy getting to work with people, build solutions, and refine processes.
     
 # Projects Section
-projects_title: Achievements
+projects_title: Certifications
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -32,10 +32,6 @@ projects_title: Achievements
 # education_title: Education #(Use this to override about experience section title)
 
 # More Section
-more_title: Certifications
-more_content: | # this will include new lines to allow paragraphs
-  - Certified Product Owner, 2019 (ScrumAlliance)
-  - Certified Scrum Master, 2018 (ScrumAlliance)
 
 # Footer
 footer_show_references: false
