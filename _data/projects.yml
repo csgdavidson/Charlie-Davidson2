@@ -2,4 +2,9 @@
 - layout: left
   name: 
   description: | # this will include new lines to allow paragraphs
-    Kentico Global Site of the Year
+    Certified Product Owner, 2019 (ScrumAlliance)
+    
+- layout: left
+  name: 
+  description: | # this will include new lines to allow paragraphs
+    Certified Scrum Master, 2018 (ScrumAlliance)
