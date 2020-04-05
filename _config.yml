@@ -9,11 +9,8 @@ email: csg.davidson <at> gmail.com
 
 darkmode: false
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Google Tag Manager
+gtm: "GTM-PQSN536"
 
 # About Section
 about_profile_image: charlie.jpg
