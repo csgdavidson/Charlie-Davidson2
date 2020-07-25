@@ -35,7 +35,7 @@ projects_title: Certifications
 more_title: Writing
 more_content: | # this will include new lines to allow paragraphs
   I don't write on my own website but do occassionally contribute to others.
-    - GirlsGuideToPM.com, <a href="https://www.girlsguidetopm.com/t-shaped-project-manager/">Make an impact as a T-Shaped project manager</a>
+    - <a href="https://www.girlsguidetopm.com/t-shaped-project-manager/">Make an impact as a T-Shaped project manager</a> - GirlsGuideToPM.com
 
 # Footer
 footer_show_references: false
