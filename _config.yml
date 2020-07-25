@@ -39,6 +39,8 @@ more_content: | # this will include new lines to allow paragraphs
 
 # Contact Section
 contact_title: Contact
+contact_content: | # this will include new lines to allow paragraphs
+  I occasionally write for other websites that focus on project management,
 
 # Footer
 footer_show_references: false
