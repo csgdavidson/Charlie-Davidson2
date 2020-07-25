@@ -4,13 +4,31 @@
     <div class="col-md-12">
       {{ site.contact_content | strip | markdownify }}
     </div>
-    <form action="https://getform.io/f/7a866f7f-3631-44bc-a000-9171bbe4cccb" method="POST">
-
-  <input type="text" name="name">
-  <input type="email" name="email">
-  <input type="text" name="message">
-  <button type="submit">Send</button>
-
-</form>
+    
+<form accept-charset="UTF-8" action="https://getform.io/f/7a866f7f-3631-44bc-a000-9171bbe4cccb" method="POST" enctype="multipart/form-data" target="_blank">
+          <div class="form-group">
+            <label for="exampleInputEmail1" required="required">Email address</label>
+            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputName">Name</label>
+            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlSelect1">Favourite Platform</label>
+            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
+              <option>Github</option>
+              <option>Gitlab</option>
+              <option>Bitbucket</option>
+            </select>
+          </div>
+          <hr>
+          <div class="form-group mt-3">
+            <label class="mr-2">Upload your CV:</label>
+            <input type="file" name="file">
+          </div>
+          <hr>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
   </div>
 </div>
