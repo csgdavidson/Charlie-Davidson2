@@ -36,6 +36,11 @@ more_title: Writing
 more_content: | # this will include new lines to allow paragraphs
   I don't write on my own website but do occassionally contribute to others.
 
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images
+
 # Footer
 footer_show_references: false
 
