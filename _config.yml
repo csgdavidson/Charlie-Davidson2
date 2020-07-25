@@ -37,6 +37,24 @@ more_content: | # this will include new lines to allow paragraphs
   I occasionally write for other websites that focus on project management, digital delivery, and agile delivery methods such as Scrum. You can find links to each of my articles below. 
     - <a href="https://www.girlsguidetopm.com/t-shaped-project-manager/" target="_blank">Make an impact as a T-Shaped project manager</a> - GirlsGuideToPM.com
 
+<form
+  action="https://formspree.io/meqrvryq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+
 # Footer
 footer_show_references: false
 
