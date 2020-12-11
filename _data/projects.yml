@@ -2,8 +2,8 @@
 - layout: left
   name: ScrumAlliance
   description: | # this will include new lines to allow paragraphs
-    Certified Product Owner (2019) by David Hicks <br>
-    Certified Scrum Master (2018) by Tobias Mayer
+    CPO: Certified Product Owner (2019) by David Hicks <br>
+    CSM: Certified Scrum Master (2018) by Tobias Mayer
 - name: Kanban University
   description: | # this will include new lines to allow paragraphs
-    KMP1 Kanban Management Professional (2020) by Tom Reynolds
+    KMP1: Kanban Management Professional (2020) by Tom Reynolds
