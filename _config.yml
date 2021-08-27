@@ -19,8 +19,8 @@ gtm: "GTM-PQSN536"
 about_profile_image: assets/charlie.jpg
 about_content:
   Hi, I'm <mark>Charlie Davidson</mark>. A Senior Digital Project Manager based in Bicester, Oxfordshire. From Cromarty, I went to Fortrose Academy and graduated with honours from Stirling University.<br><br>
-  I've been a <mark>Digital Project Manager</mark> for twelve years and enjoy facilitating teams, building solutions, and refining processes. The following are areas where I can typically add value.
-    - text
+  I've been a <mark>Digital Project Manager</mark> for twelve years and enjoy facilitating teams, building solutions, and refining processes. The following are areas where I can typically add value. 
+    - <a href="https://www.girlsguidetopm.com/t-shaped-project-manager/" target="_blank">Make an impact as a T-Shaped project manager</a> - GirlsGuideToPM.com
     
 # Projects Section
 projects_title: Certifications
