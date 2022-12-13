@@ -5,7 +5,6 @@ favicon: assets/favicon.ico
 # Personal info
 name: Charlie Davidson
 title: Senior Digital Project Manager
-email:
 description: Hi! I’m Charlie Davidson. An Oxfordshire based, Senior Digital Project Manager. 
 lang: en_gb
 url: https://charliedavidson.co.uk
@@ -40,7 +39,7 @@ more_content: | # this will include new lines to allow paragraphs
     - <a href="https://www.liquidplanner.com/blog/productive-pm-5-practical-systems-to-get-more-done/" target="_blank">Productive PM: 5 Practical Systems to Get More Done</a> - LiquidPlanner
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
