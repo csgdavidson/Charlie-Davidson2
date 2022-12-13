@@ -38,9 +38,6 @@ more_content: | # this will include new lines to allow paragraphs
     - <a href="https://projectbliss.net/how-to-be-a-great-scrum-master-servant-leader/" target="_blank">Scrum Master Servant Leader: 12 Ways To Move Your Team to Greatness</a> - Project Bliss
     - <a href="https://www.liquidplanner.com/blog/productive-pm-5-practical-systems-to-get-more-done/" target="_blank">Productive PM: 5 Practical Systems to Get More Done</a> - LiquidPlanner
 
-# Footer
-footer_show_references: true
-
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
